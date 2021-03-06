@@ -1,6 +1,7 @@
 paddlepaddle
 paddlehub
-visualdl
-paddleseg
-paddlenlp
 paddleocr
+opencv
+moviepy
+tqdm
+pillow
