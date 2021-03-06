@@ -27,6 +27,7 @@ python addbgm.py --video 生成的视频名称A --bgm 背景音乐文件 --outpu
         BYYYYYYYYYYY
 ####    这就代表了右侧的人说了XXXXXXXXXXX,左侧的人说了YYYYYYYYYYY
 ####    看了txts文件夹中的格式你就懂啦
+#### 3.如果报字体找不到的问题，可以试试repo中提供的那个宋体simsun.ttc
 
 
 ## 其他的
